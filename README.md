@@ -241,3 +241,10 @@ tests/          test_basicboard.py checks against measured hardware; photo tests
                 need the local sample photos in data/cache and skip without them
 docs/           design decisions, open questions, protocol notes, spike results
 ```
+## Team Development
+
+This fork is maintained by the Fall 2026 CS 470
+capstone team.
+
+Development changes are submitted through feature
+branches and pull requests.
